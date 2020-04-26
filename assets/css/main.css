@@ -1399,10 +1399,10 @@ input, select, textarea {
 			}
 
 				#top .image {
-					width: 15em;
-					height: 15em;
-					margin-bottom: 0;
-				}
+                                  width: 13em;
+                                  height: 15em;
+                                  margin-bottom: 0;
+                                 }
 
 				#top p {
 					font-size: 1em;
